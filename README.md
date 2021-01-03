@@ -9,3 +9,7 @@
 3.Queue
 
 4.HashTable
+
+# Non Linear
+
+1. Binary Trees
